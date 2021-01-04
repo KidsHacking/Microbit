@@ -1,2 +1,2 @@
 # Microbit
-www.kidshacking.com Microbit Projects
+www.kidshacking.com Micro:bit Projects
